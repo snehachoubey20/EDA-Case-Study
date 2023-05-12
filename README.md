@@ -1,2 +1,2 @@
 # EDA-Case-Study
-This case study aims to give an idea of applying EDA in a real business scenario. In this case study we developed a basic understanding of risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.  
+The company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.  The company can utilise this knowledge for its portfolio and risk assessment. The study was done using python libraries and visualization.
